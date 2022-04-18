@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hello everyone 👋
 
+I am Erick Barrera, a forensic scientist :skull: whit a agreat passion for technology and science in general :rocket: :microscope:.
+
+My first step in technology was in full stack development thanks to Microsoft's Launch X program :tada: but my knowlegde also includes cybersecurity and cyberforensics. Relative to forensic science :mag: I love to share my knowlegde with everyone making use of social media (follow the project where I participate @CIFOMEX in all social media Facebook, Twitter, TikTok and of course here in Github)
+
+This is who I am, allways ready to answer all your questions :speech_balloon: and shere what I know with the world :exclamation:
 <!--
 **ErickBarreraO/ErickBarreraO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
